@@ -1,0 +1,13 @@
+Start
+   Declare variable restaurantName
+   Declare variable address
+   Declare variable cityStateZip
+
+   Set restaurantName = "Sunny Side Café"
+   Set address = "123 Main Street"
+   Set cityStateZip = "Pittsburgh, PA 15222"
+
+   Print restaurantName
+   Print address
+   Print cityStateZip
+End
